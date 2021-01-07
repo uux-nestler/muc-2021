@@ -31,7 +31,7 @@ After the check out the following steps have to be done:
 - Check the correct configuration of your **[database](https://laravel.com/docs/4.2/database)**
 - Run the **[laravel migrations](https://laravel.com/docs/8.x/migrations)** (from your command line)
 - Open your **[local website](http://localhost:8887/overview)** in your browser
-- Check if you can access **[Overview](http://localhost:8887/overview)**, **[Program](http://localhost:8887/programs)** and **[Misc](http://localhost:8887/Misc)**
+- Check if you can access **[Overview](http://localhost:8887/overview)**, **[Program](http://localhost:8887/programs)** and **[Misc](http://localhost:8887/misc)**
 - Fill the program via **[Seeding](https://laravel.com/docs/8.x/seeding)** (from your command line) - you should now see some entries in your **[Program](http://localhost:8887/programs)**
 - Try to delete, edit and add some program items - if you want to reset the database, you can run the seeding again.
 - Open the `quasardev` folder in your command line and run the **[quasar development server](https://quasar.dev/quasar-cli/build-commands)**
@@ -59,28 +59,28 @@ If the App is running on your localhost try to understand the code:
 - Try to understand the **[Dynamic Route Matching](https://router.vuejs.org/guide/essentials/dynamic-matching.html#reacting-to-params-changes)** in VueJS and analyse how `quasarapp/src/pages/Programs.vue` and `quasarapp/src/pages/ProgramDetail.vue` are connected.
 
 
-## Understanding
+## Programming
 
 If you understand the basic principles start extending the App:
 
 - Add an additional ressource for the rooms. You have to perform the following steps:
   - Add a new eloquent model
-  - Add a migration
-  - Add a seeder
-  - Add a CRUD controller
-  - Add all blade files
-  - Add routes to web.php
+  - Add a **[migration](https://laravel.com/docs/8.x/migrations)**
+  - Add a **[seeder](https://laravel.com/docs/8.x/seeding)**
+  - Add a **[CRUD controller](https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers#creating-the-controller)** 
+  - Add all **[blade files](https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers#the-views)**
+  - Add **[routes](https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers#setting-up-the-routes)** to web.php
 - Make the rooms readable via the API. You have to perform the following steps:
-  - Add a new resource
-  - Add routes to api.php
+  - Add a **[new resource](https://laravel.com/docs/8.x/eloquent-resources)**
+  - Add **[routes](https://www.toptal.com/laravel/restful-laravel-api-tutorial)** to api.php
 - Add an additional section for the rooms in your App. You have to perform the following steps:
-  - Add a new page in Quasar
-  - Add the page to your router
-  - Link the page from the SideBar
-  - Add the API requests in the script
+  - Add a **[new page](https://quasar.dev/layout/routing-with-layouts-and-pages)** in Quasar 
+  - Add the page to your **[router](https://quasar.dev/layout/routing-with-layouts-and-pages#Defining-Routes)**
+  - Add a link to the **[SideBar](https://quasar.dev/layout/routing-with-layouts-and-pages#Defining-Routes)**  
+  - Add the **[API requests](https://quasar.dev/layout/routing-with-layouts-and-pages#Defining-Routes)** in the script 
 - BONUS: Link the program items with the rooms. You have to perform the following steps:
   - Include a **[foreign key](https://laravel.com/docs/4.2/schema#foreign-keys)** in your program table
-  - Change the eloquent model for programs
-  - Modify your seeders
-  - Modify your blade files
-  - Modify your controllers
+  - Change the **[eloquent model](https://laravel.com/docs/8.x/eloquent-relationships)** for programs 
+  - Modify your **[seeders](https://laravel.com/docs/8.x/seeding)**
+  - Modify your **[blade files](https://laravel.com/docs/8.x/blade)**
+  - Modify your **[controllers](https://laravel.com/docs/8.x/controllers)**
