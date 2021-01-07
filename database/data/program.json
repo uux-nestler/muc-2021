@@ -1,0 +1,37 @@
+[
+    {
+        "title": "MCI-WS01: Teilhabe an der allgegenwärtigen Kommunikation",
+        "ort": "Ost 233",
+        "date": "2019-09-08",
+        "zeit": "9:00",
+        "content": "Innerhalb des Workshops sollen verschiedene Ansätze der Verwirklichung von Inklusion im Rahmen der allgegenwärtigen Computer, sozialen Medien und dem Internet der Dinge gezeigt werden. Welche neuen Teilhabe-Chancen werden durch neue Technologien und Techniken wie z. B. Wearables, smarte Anwen- dungen und persönliche digitale Assistenten geboten. Welche Gefahren der Exklusion sind mit diesen Technologien verbunden. Inwieweit findet man in Rahmenwerken, Normen und Richtlinien der Barrierefreiheit Hinweise auf die effiziente Nutzerbarkeit eines Produktes für Nutzer mit Beeinträchtigungen? Welche Berück- sichtigung finden Anforderungen der Barrierefreiheit bei Web Authoring Tools? Der Workshop wendet sich sowohl an Wissen- schaftler*innen als auch an Praktiker*innen. Die akzeptierten Beiträge sollen als kurze Impulse dienen, die eine anschließende Diskussion in Kleingruppen ermöglicht."
+    },
+    {
+        "title": "MCI-WS02: Partizipative & sozialverantwortliche Technikentwicklung",
+        "ort": "Ost 232",
+        "date": "2019-09-08",
+        "zeit": "9:00",
+        "content": "Im Workshop treffen sich Forscher*innen und Praktiker*innen zu Austausch und Diskussion über die Beteiligung von Nutzer*innen an Technikentwicklungsprozessen. Sie gehen dabei der Frage nach, wie Partizipation dem Anspruch auf Demokratisierung und Empowerment in Forschung und Praxis gerecht werden kann. Im Workshop 2019 wird außerdem das Gründungsmanifest der Fachgruppe „Partizipation“ im Fachbereich Mensch-Computer-In- teraktion (MCI) der Gesellschaft für Informatik (GI) entwickelt."
+    },
+        {
+        "title": "MCI-WS03: Gam-R – Gamification Reloaded",
+        "ort": "Ost 121",
+        "date": "2019-09-08",
+        "zeit": "9:00",
+        "content": "Gamification erfährt als wissenschaftliches Konzept zum Einsatz von spieltypischen Elementen in einem spielfremden Kontext stei- gende Anerkennung und Adaption in den unterschiedlichsten For- schungs- und Anwendungsbereichen. Auch vergangene Mensch und Computer Konferenzen zeigen die Relevanz des Konzepts für Forschende und Praktiker*innen im Bereich Mensch-Compu- ter-Interaktion. Diese Präsenz soll durch den Workshop Gam-R – Gamification Reloaded manifestiert und institutionalisiert werden. Der Work- shop soll Forschenden und Praktiker*innen ein Forum bieten, um innovative und ggf. bisher nicht vollständig gereifte For- schungsideen zu präsentieren und zu diskutieren. Ebenso sollen bereits durchgeführte wissenschaftlich fundierte Anwendungen oder Untersuchungen zu Gamification vorgestellt und diskutiert werden können, um das Feedback der Community für z. B. weitere Vorhaben einzuholen."
+    },
+        {
+        "title": "MCI-WS04: Workshop Evaluation der Nutzung und des Nutzens von (Semi-)Public Displays",
+        "ort": "Ost 108",
+        "date": "2019-09-08",
+        "zeit": "9:00",
+        "content": "Potentiell interaktive (Semi-)Public Displays finden heute eine wei- te Verbreitung an öffentlichen und halböffentlichen Orten. Bei der wissenschaftlichen Beschäftigung mit dieser Anwendungsklasse spielen Langzeitstudien eine immer wichtigere Rolle. Sowohl die Durchführung solcher Studien als auch die angemessene Berück- sichtigung von beim Langzeiteinsatz in realen Nutzungskontexten auftretenden Effekten stellt dabei eine große Herausforderung dar. In diesem Workshop wollen wir Erfahrungen und Best Practices zu diesem Themenkomplex sammeln und gemeinsam Empfehlungen und Hilfestellungen für die Durchführung von Langzeitstudien erarbeiten."
+    },
+        {
+        "title": "MCI-WS05: 12. Workshop Be-greifbare Interaktion",
+        "ort": "Ost 221",
+        "date": "2019-09-08",
+        "zeit": "9:00",
+        "content": "Be-greifbare Interaktion vollzieht sich im Wesentlichen über die Manipulation physischer Objekte und durch den Einsatz des eigenen Körpers. Sie bezieht damit die Umgebung und den physischen Nutzungskontext in viel stärkerer Weise ein als rein grafische oder sprachbasierte Schnittstellen zur Steuerung von Mensch-Compu- ter-Systemen. Die vielfältigen Möglichkeiten, Sensoren und Com- putersysteme in die Umwelt und ihre Gegenstände zu integrieren, bietet einen großen Gestaltungsspielraum. Das Forschungsfeld der »Be-greifbaren Interaktion« (Tangible Interaction) untersucht diesen Spielraum wissenschaftlich und praktisch, um sinnvolle und menschengerechte Anwendungen zu ermöglichen. Die Fachgruppe »Be-greifbare Interaktion« des GI-Fachbereichs Mensch-Compu- ter-Interaktion bietet in ihrem gleichnamigen Workshop ein Forum zur Präsentation des wissenschaftlichen Diskurses und der interdis- ziplinären Auseinandersetzung mit den neuesten Entwicklungen und Forschungsergebnissen in diesem Forschungsfeld. Die Beitragsfor- men reichen dabei über theoretische, kritische und zukunftswei- sende Reflexionen, bis hin zu gestalterischen Arbeiten und Studien, Berichte praktischer Umsetzungen und Systemdemonstrationen."
+    }
+]

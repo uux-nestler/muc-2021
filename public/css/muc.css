@@ -1,0 +1,16 @@
+.tp {
+    margin-top: 100px;
+}
+
+.ft {
+    margin-top: 200px;
+}
+
+.mat {
+    margin-top: 50px !important;
+}
+
+.tan * {
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
